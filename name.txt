@@ -1,4 +1,2 @@
-Maria
-Eva
-Ilia
-Marvin
+select * from table:)
+
